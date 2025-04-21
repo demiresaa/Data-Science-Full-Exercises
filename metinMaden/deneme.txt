@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec  7 21:53:03 2023
+
+@author: Dell
+"""
+
+denenerm
+
