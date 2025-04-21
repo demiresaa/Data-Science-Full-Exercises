@@ -84,7 +84,9 @@ Bu depo, kurs kapsamında öğrendiğim ve üzerinde çalıştığım aşağıda
 *   **Makine Öğrenmesi:** Scikit-learn
 *   **Büyük Veri / Spark:** PySpark
 *   **Veri Görselleştirme:** Matplotlib, Seaborn, Plotly (Opsiyonel)
-Proje Sahibi Süleyman Kürşat Demir
+  
+### Proje Sahibi
 
-GitHub: https://github.com/demiresaa
-LinkedIn: https://www.linkedin.com/in/suleyman-kursat-demir/
+Süleyman Kürşat Demir
+*   GitHub: https://github.com/demiresaa
+*   LinkedIn: https://www.linkedin.com/in/suleyman-kursat-demir/
